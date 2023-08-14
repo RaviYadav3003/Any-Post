@@ -1,0 +1,62 @@
+.size-2 {
+  font-size: x-large;
+}
+.flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.align-center {
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+.margin-top-1 {
+  margin-top: 0.5rem;
+}
+.pointer {
+  cursor: pointer;
+}
+
+.padding-5 {
+  padding: 0.5rem;
+}
+.underline-hover:hover {
+  text-decoration: underline;
+}
+.bgDarkmode {
+  background-color: #56081e !important;
+  color: white !important;
+}
+.gap-5 {
+  gap: 10px;
+}
+
+.bgDarkmode-s {
+  background-color: #56081e !important;
+  color: white !important;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+.bgSecondaryDarkMode {
+  background-color: #2c0810 !important;
+  color: white !important;
+}
+
+.btnDark {
+  background-color: #741d30 !important;
+  color: white !important;
+}
+.btnDarkUsernname {
+  background-color: #37101a !important;
+  color: lightcoral !important;
+}
+.bgDarkmodeActive {
+  background-color: #380c19 !important;
+  color: white;
+}

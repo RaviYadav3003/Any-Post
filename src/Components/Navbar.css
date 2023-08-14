@@ -1,0 +1,11 @@
+.nav-heading{
+    font-size: 33px;
+}
+.nav-logo{
+    mix-blend-mode: multiply;
+}
+.nav-heading {
+    color: black;
+    font-size: 34px;
+    padding: 3px;
+}
